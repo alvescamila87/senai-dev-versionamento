@@ -9,3 +9,5 @@ Aplicação das técnicas estudadas no módlo Versionamento git e github.
 Para não afetar o TRUNK
 
 ## Push no repositório TRUNK e NEW BRANCH
+
+unir os arquivos de readme das branchs
