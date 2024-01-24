@@ -1,4 +1,3 @@
-=======
 # Versionamento de GIT
 
 ## Projeto prático
@@ -12,3 +11,6 @@ Para não afetar o TRUNK
 
 ## Push no repositório TRUNK e NEW BRANCH
 Ajustar conflitos
+
+## Resolução de conflitos
+Como resolver conflitos utilizando merge ou git pull
